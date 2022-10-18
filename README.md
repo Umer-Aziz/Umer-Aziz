@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif?cid=790b7611870107ee3779143b2148297ed416cb4d40ab4ccc&rid=giphy.gif&ct=g" width="100%" height="300"/>
 <h1 align="center">Hi 👋, I'm Umer Aziz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611694cae9a6f501efc2306e5920da2b76e845a5144&rid=giphy.gif&ct=g" width="350" />
 

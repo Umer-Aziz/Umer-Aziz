@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umer Aziz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611694cae9a6f501efc2306e5920da2b76e845a5144&rid=giphy.gif&ct=g" width="400" />
+<img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611694cae9a6f501efc2306e5920da2b76e845a5144&rid=giphy.gif&ct=g" width="350" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="umer-aziz" /> </p>
 

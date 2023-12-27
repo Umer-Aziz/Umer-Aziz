@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [http://umeraziz-engineer.herokuapp.com/](http://umeraziz-engineer.herokuapp.com/)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **umeraziz682@gmail.com**
